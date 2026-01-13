@@ -34,7 +34,7 @@
     "@gomomento/sdk": "^1.51.1",
     "@google/generative-ai": "^0.7.0",
     "@lancedb/lancedb": "^0.13.0",
-    "@langchain/anthropic": "workspace:*",
+    "@langchain/anthropic": "0.0.0",
     "@langchain/aws": "workspace:*",
     "@langchain/azure-cosmosdb": "workspace:*",
     "@langchain/azure-dynamic-sessions": "workspace:^",
