@@ -36,7 +36,7 @@
   "license": "MIT",
   "dependencies": {
     "@langchain/core": ">=0.2.21 <0.4.0",
-    "uuid": "^10.0.0"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20240909.0",
